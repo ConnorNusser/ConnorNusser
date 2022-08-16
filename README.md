@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ConnorNusser
-- 👀 I’m interested in having fun while programming and always looking to work on fun projects
-- 🌱 I’m currently learning better coding practices. 
+- Currently working as a Full Stack Software Engineer in Big Tech 
 - 💞️ I’m looking to collaborate on pretty much anything! 
 - 📫 You can reach me at connornusser@gmail.com
 
