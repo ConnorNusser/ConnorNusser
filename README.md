@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ConnorNusser
+- Find my website here https://connornusser.github.io/
 - Currently working as a Full Stack Software Engineer in Big Tech 
 - 💞️ I’m looking to collaborate on pretty much anything! 
 - 📫 You can reach me at connornusser@gmail.com
